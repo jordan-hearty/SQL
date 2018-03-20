@@ -1,0 +1,4 @@
+SELECT *
+FROM EMP
+WHERE salary >20000
+AND dno='d1'

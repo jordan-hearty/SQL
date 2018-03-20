@@ -1,0 +1,3 @@
+SELECT pno, COUNT(eno)
+FROM WORKS
+GROUP BY pno;

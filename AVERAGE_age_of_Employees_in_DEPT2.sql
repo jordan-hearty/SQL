@@ -1,0 +1,2 @@
+USE projemp
+SELECT AVG(age) FROM EMP
